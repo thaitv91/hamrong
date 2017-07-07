@@ -1,0 +1,107 @@
+body.toplevel_page_CF7DBPluginSubmissions #adminmenuwrap {
+	display: none;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent {
+	padding: 0;
+  margin: 0;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent #wpbody-content > table {
+	margin: 0 auto;
+	padding: 0;
+	width: 1100px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent #wpbody-content > form {
+	border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent #wpbody-content > form > span {
+	margin: 0 auto;
+  display: block;
+  width: 1100px;
+  font-weight: bold;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent #wpbody-content > form .dataTables_wrapper {
+	margin: 0 auto;
+	padding: 0;
+	width: 1100px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #adminmenuback {
+	display: none;
+}
+
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent #wpbody-content > table {
+  margin: 20px auto;
+  width: 1150px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent #wpbody-content > table select {
+  margin-top: -2px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpcontent #wpbody-content > table input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 2px;
+  padding: 3px 8px;
+}
+
+/*Data table*/
+body.toplevel_page_CF7DBPluginSubmissions tr.odd {
+	background-color: #EFE7AF;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .ui-corner-tl {
+	background: #D1D1D1;
+	border-color: #ccc;
+  border-radius: 0;
+  margin-bottom: 15px;
+  padding: 5px 10px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .dataTables_scroll .dataTables_scrollHeadInner,
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .dataTables_scroll .dataTables_scrollHeadInner table,
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .dataTables_scroll table {
+	width: 100% !important;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .dataTables_scroll .dataTables_scrollHeadInner th.ui-state-default {
+	background: #bf9958;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  padding-top: 7px;
+  text-transform: uppercase;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .dataTables_scrollBody table tr {
+	line-height: 30px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .dataTables_scrollBody table tr td {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content .dataTables_scrollBody table tr td a {
+  text-decoration: none;
+}
+body.toplevel_page_CF7DBPluginSubmissions #cf2dbtable_wrapper .ui-corner-bl:last-child {
+	background: none;
+  border: none;
+  border-top: 1px solid #ccc;
+  margin-top: 10px;
+  padding-top: 5px;
+  text-align: right;
+}
+body.toplevel_page_CF7DBPluginSubmissions #cf2dbtable_wrapper .dataTables_info {
+	width: 90%;
+}
+body.toplevel_page_CF7DBPluginSubmissions button#delete {
+	cursor: pointer;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  background: #675E5E;
+  text-transform: uppercase;
+  color: #fff;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content {
+	padding-bottom: 30px;
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpbody-content {
+	
+}
+body.toplevel_page_CF7DBPluginSubmissions #wpfooter {
+	display: none;
+}
